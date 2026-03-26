@@ -16,9 +16,9 @@ Request the **CML Decryption Appendix** from the author.
 
 ### 2. Prepare the Capsule
 - Copy the content of a capsule (CRE or SCI)
-- Replace the section with the provided appendix.:
-I. Decryption Appendix
-(!) AVAILABLE UNDER REQUEST ONLY (!)
+- Replace the section with the provided appendix:
+"I. Decryption Appendix
+(!) AVAILABLE UNDER REQUEST ONLY (!)"
 
 ### 3. Load into an LLM
 Upload the .txt capsule file into a compatible LLM. Recommended models (large context-windows >32K tokens):
